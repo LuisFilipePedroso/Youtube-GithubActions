@@ -1,1 +1,3 @@
-console.log("Ola");
+import test from "./unusedFunction";
+
+console.log(test());
